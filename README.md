@@ -1,3 +1,3 @@
 #Hi I'm Jolin :)
-I'm a **DSAI** Student
+I'm a **Computer Science** Student
 blah blah blah
