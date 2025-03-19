@@ -1,3 +1,2 @@
-#Hi I'm Jolin :)
-I'm a **Computer Science** Student
-blah blah blah
+#Hi I'm Onolt :)
+I'm a **Good** Student blah blah blah
